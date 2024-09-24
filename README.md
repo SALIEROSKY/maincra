@@ -1,0 +1,2 @@
+# maincra
+ jugar maincra
